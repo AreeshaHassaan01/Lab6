@@ -1,0 +1,10 @@
+using System;
+{
+    class Program{
+            Console.WriteLine("Chocolates");
+            Console.WriteLine("Blueberries");
+            Console.WriteLine("Cakes");
+            Console.WriteLine("Egg Noodles");
+            Console.WriteLine("Pickles");
+        }
+}
